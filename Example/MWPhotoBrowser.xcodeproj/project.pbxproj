@@ -295,12 +295,12 @@
 		6003F593195388D20070C39A /* Example */ = {
 			isa = PBXGroup;
 			children = (
+				A7D498751EEA9AAF00FB8866 /* Pod */,
 				4C18E1171B47E72800E3D63A /* AppDelegate.h */,
 				4C18E1181B47E72800E3D63A /* AppDelegate.m */,
 				4C18E1191B47E72800E3D63A /* Menu.h */,
 				4C18E11A1B47E72800E3D63A /* Menu.m */,
 				873B8AEA1B1F5CCA007FD442 /* Main.storyboard */,
-				A7D498751EEA9AAF00FB8866 /* Pod */,
 				6003F5A8195388D20070C39A /* Images.xcassets */,
 				4C18E1431B47F05900E3D63A /* Local Media */,
 				6003F594195388D20070C39A /* Supporting Files */,
